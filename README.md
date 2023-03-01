@@ -1,1 +1,1 @@
-#MERN Fullstack AI-Image-Generation-App
+#Fullstack MERN  AI-Image-Generation-App
