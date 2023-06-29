@@ -4,7 +4,7 @@
 3. OpenAI's DALL-E model
 4. Cloudinary
 
-in this project vite.js has been used  
+## In this project vite.js has been used  
 npm create vite@latest  
 npm install  
 npm install file-saver  
